@@ -56,10 +56,10 @@ _+ Eres un simple humano, no eres una maquina para notar la diferencia. +_
  >> SI INTENTAS INSTALAR ESTE XML EN TU MOUSE DRIVER PUEDE GENERAR ERRORES DE MEMORIA <<
  >> [LEAK MEMORY ISSUE]
 
--------------------------------------------------------------------------------->
-Another Stuff:
+# Another Stuff:
 
 #Support [msx]HalleyLabs Music: https://lapfox.bandcamp.com/
 #Support RaveFurryCore Music.
 
-_+ Si llegaste a leer esto lo mas probable que esto nisiquiera te sirva pero puedes copiar esta informacion y usar esta cfg en otro perfil de tu mouse. +_
+_+ Si llegaste a leer esto lo mas probable que esto nisiquiera te sirva,
+pero puedes copiar esta informacion y usar esta cfg en otro perfil de tu mouse. +_
