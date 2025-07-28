@@ -19,7 +19,7 @@ Machenike L7 MIX PRO
 # Misc del sensor [PAW3395]
 
 -> Altura LOD del raton
-   # 1.0mm
+   1.0mm
 
 -> Rendimiento del sensor
    [activado] -> Ripple / Angle Snap / Motion Sync
